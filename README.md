@@ -11,7 +11,7 @@ This project presents an interactive Power BI dashboard analyzing the impact of 
 
 ## Tools & Technologies
 - Power BI (Primary Tool)
-- SQL (Data Preparation)
+
 
 ## Power BI Dashboard Features
 - Screen Time Analysis (daily usage trends)
