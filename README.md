@@ -26,6 +26,10 @@ The dataset includes:
 - Social media usage frequency
 - Mental health indicators
 - User demographics (age groups)
+ ## 📊 Dashboard Preview  
+
+![Dashboard Screenshot](Dashboard.png)
+
 
 ## Key Insights
 - Increased screen time is associated with higher stress levels
